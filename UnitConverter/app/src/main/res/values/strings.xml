@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="name">UNIT CONVERTER</string>
+    <string name="length">LENGTH</string>
+    <string name="weight">WEIGHT</string>
+    <string name="area">AREA</string>
+    <string name="volume">VOLUME</string>
+    <string name="speed">SPEED</string>
+    <string name="temp">TEMP</string>
+    <string name="owner">Made By Vaibhav Wabale</string>
+    <string name="area_conversion">AREA CONVERSION</string>
+    <string name="enter_value_in_square_meter">Enter value in Square Meter</string>
+    <string name="convert_to_square_millimeter">Convert to Square millimeter</string>
+    <string name="convert_to_square_centimeter">Convert to Square Centimeter</string>
+</resources>
