@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         binding.playBtn.setOnClickListener(v -> {
-            startActivity(new Intent(this,QuizActivity.class));
+            startActivity(new Intent(this, QuizActivity.class));
             finish();
         });
 

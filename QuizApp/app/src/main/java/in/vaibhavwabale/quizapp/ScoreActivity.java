@@ -18,8 +18,8 @@ public class ScoreActivity extends AppCompatActivity {
         binding = ActivityScoreBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        score = getIntent().getIntExtra("score",0);
-        total = getIntent().getIntExtra("total",0);
+        score = getIntent().getIntExtra("score", 0);
+        total = getIntent().getIntExtra("total", 0);
 
         binding.score.setText(String.valueOf(score));
         binding.total.setText(String.valueOf(total));
